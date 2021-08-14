@@ -13,3 +13,6 @@ javac Runner.java
 java Runner
 ```
 - Use the arrowkeys to play and enjoy!
+
+## Author
+Aaron Marmolejos
